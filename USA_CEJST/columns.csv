@@ -1,0 +1,112 @@
+meaning,column
+SF,State/Territory
+CF,County Name
+DF_PFS,Diagnosed diabetes among adults aged greater than or equal to 18 years (percentile)
+AF_PFS,Current asthma among adults aged greater than or equal to 18 years (percentile)
+HDF_PFS,Coronary heart disease among adults aged greater than or equal to 18 years (percentile)
+DSF_PFS,Diesel particulate matter exposure (percentile)
+EBF_PFS,Energy burden (percentile)
+EALR_PFS,Expected agricultural loss rate (Natural Hazards Risk Index) (percentile)
+EBLR_PFS,Expected building loss rate (Natural Hazards Risk Index) (percentile)
+EPLR_PFS,Expected population loss rate (Natural Hazards Risk Index) (percentile)
+HBF_PFS,Housing burden (percent) (percentile)
+LLEF_PFS,Low life expectancy (percentile)
+LIF_PFS,Linguistic isolation (percent) (percentile)
+LMI_PFS,Low median household income as a percent of area median income (percentile)
+MHVF_PFS,Median value ($) of owner-occupied housing units (percentile)
+PM25F_PFS,PM2.5 in the air (percentile)
+HSEF,Percent individuals age 25 or over with less than high school degree
+P100_PFS,Percent of individuals < 100% Federal Poverty Line (percentile)
+P200_PFS,Percent of individuals below 200% Federal Poverty Line (percentile)
+LPF_PFS,Percent pre-1960s housing (lead paint indicator) (percentile)
+NPL_PFS,Proximity to NPL sites (percentile)
+RMP_PFS,Proximity to Risk Management Plan (RMP) facilities (percentile)
+TSDF_PFS,Proximity to hazardous waste sites (percentile)
+TPF,Total population
+TF_PFS,Traffic proximity and volume (percentile)
+UF_PFS,Unemployment (percent) (percentile)
+WF_PFS,Wastewater discharge (percentile)
+M_WTR,Water Factor (Definition M)
+M_WKFC,Workforce Factor (Definition M)
+M_CLT,Climate Factor (Definition M)
+M_ENY,Energy Factor (Definition M)
+M_TRN,Transportation Factor (Definition M)
+M_HSG,Housing Factor (Definition M)
+M_PLN,Pollution Factor (Definition M)
+M_HLTH,Health Factor (Definition M)
+SM_C,Definition M (communities)
+SM_PFS,Definition M (percentile)
+EPLRLI,"Greater than or equal to the 90th percentile for expected population loss rate, is low income, and has a low percent of higher ed students?"
+EALRLI,"Greater than or equal to the 90th percentile for expected agriculture loss rate, is low income, and has a low percent of higher ed students?"
+EBLRLI,"Greater than or equal to the 90th percentile for expected building loss rate, is low income, and has a low percent of higher ed students?"
+PM25LI,"Greater than or equal to the 90th percentile for PM2.5 exposure, is low income, and has a low percent of higher ed students?"
+EBLI,"Greater than or equal to the 90th percentile for energy burden, is low income, and has a low percent of higher ed students?"
+DPMLI,"Greater than or equal to the 90th percentile for diesel particulate matter, is low income, and has a low percent of higher ed students?"
+TPLI,"Greater than or equal to the 90th percentile for traffic proximity, is low income, and has a low percent of higher ed students?"
+LPMHVLI,"Greater than or equal to the 90th percentile for lead paint, the median house value is less than 90th percentile, is low income, and has a low percent of higher ed students?"
+HBLI,"Greater than or equal to the 90th percentile for housing burden, is low income, and has a low percent of higher ed students?"
+RMPLI,"Greater than or equal to the 90th percentile for proximity to RMP sites, is low income, and has a low percent of higher ed students?"
+SFLI,"Greater than or equal to the 90th percentile for proximity to superfund sites, is low income, and has a low percent of higher ed students?"
+HWLI,"Greater than or equal to the 90th percentile for proximity to hazardous waste facilities, is low income, and has a low percent of higher ed students?"
+WDLI,"Greater than or equal to the 90th percentile for wastewater discharge, is low income, and has a low percent of higher ed students?"
+DLI,"Greater than or equal to the 90th percentile for diabetes, is low income, and has a low percent of higher ed students?"
+ALI,"Greater than or equal to the 90th percentile for asthma, is low income, and has a low percent of higher ed students?"
+HDLI,"Greater than or equal to the 90th percentile for heart disease, is low income, and has a low percent of higher ed students?"
+LLELI,"Greater than or equal to the 90th percentile for low life expectancy, is low income, and has a low percent of higher ed students?"
+LILHSE,"Greater than or equal to the 90th percentile for households in linguistic isolation, has low HS attainment, and has a low percent of higher ed students?"
+PLHSE,"Greater than or equal to the 90th percentile for households at or below 100% federal poverty level, has low HS attainment, and has a low percent of higher ed students?"
+LMILHSE,"Greater than or equal to the 90th percentile for low median household income as a percent of area median income, has low HS attainment, and has a low percent of higher ed students?"
+ULHSE,"Greater than or equal to the 90th percentile for unemployment, has low HS attainment, and has a low percent of higher ed students?"
+EPL_ET,Greater than or equal to the 90th percentile for expected population loss
+EAL_ET,Greater than or equal to the 90th percentile for expected agricultural loss
+EBL_ET,Greater than or equal to the 90th percentile for expected building loss
+EB_ET,Greater than or equal to the 90th percentile for energy burden
+PM25_ET,Greater than or equal to the 90th percentile for pm2.5 exposure
+DS_ET,Greater than or equal to the 90th percentile for diesel particulate matter
+TP_ET,Greater than or equal to the 90th percentile for traffic proximity
+LPP_ET,Greater than or equal to the 90th percentile for lead paint and the median house value is less than 90th percentile
+HB_ET,Greater than or equal to the 90th percentile for housing burden
+RMP_ET,Greater than or equal to the 90th percentile for RMP proximity
+NPL_ET,Greater than or equal to the 90th percentile for NPL (superfund sites) proximity
+TSDF_ET,Greater than or equal to the 90th percentile for proximity to hazardous waste sites
+WD_ET,Greater than or equal to the 90th percentile for wastewater discharge
+DB_ET,Greater than or equal to the 90th percentile for diabetes
+A_ET,Greater than or equal to the 90th percentile for asthma
+HD_ET,Greater than or equal to the 90th percentile for heart disease
+LLE_ET,Greater than or equal to the 90th percentile for low life expectancy
+UN_ET,Greater than or equal to the 90th percentile for unemployment
+LISO_ET,Greater than or equal to the 90th percentile for households in linguistic isolation
+POV_ET,Greater than or equal to the 90th percentile for households at or below 100% federal poverty level
+LMI_ET,Greater than or equal to the 90th percentile for low median household income as a percent of area median income
+IA_LMI_ET,Low median household income as a percent of territory median income in 2009 exceeds 90th percentile
+IA_UN_ET,Unemployment (percent) in 2009 exceeds 90th percentile
+IA_POV_ET,Percentage households below 100% of federal poverty line in 2009 exceeds 90th percentile
+FPL200S,Exceeds FPL200 threshold
+TC,Total threshold criteria exceeded
+CC,Total categories exceeded
+IAULHSE,Greater than or equal to the 90th percentile for unemployment and has low HS education in 2009 (island areas)?
+IAPLHSE,Greater than or equal to the 90th percentile for households at or below 100% federal poverty level and has low HS education in 2009 (island areas)?
+IALMILHSE,Greater than or equal to the 90th percentile for low median household income as a percent of area median income and has low HS education in 2009 (island areas)?
+IALMILHSE_,Low median household income as a percent of territory median income in 2009 (percentile)
+IAPLHSE_PF,Percentage households below 100% of federal poverty line in 2009 for island areas (percentile)
+IAULHSE_PF,Unemployment (percent) in 2009 for island areas (percentile)
+LHE,Low high school education and low percent of higher ed students
+IALHE,Low high school education in 2009 (island areas)
+IAHSEF,Percent individuals age 25 or over with less than high school degree in 2009
+CA,Percent enrollment in college or graduate school
+NCA,Percent of population not currently enrolled in college or graduate school
+CA_LT20,Percent higher ed enrollment rate is less than 20%
+FPL200S.1,FPL200S.1
+M_CLT_EOMI,At least one climate threshold exceeded
+M_ENY_EOMI,At least one energy threshold exceeded
+M_TRN_EOMI,At least one traffic threshold exceeded
+M_HSG_EOMI,At least one housing threshold exceeded
+M_PLN_EOMI,At least one pollution threshold exceeded
+M_WTR_EOMI,At least one water threshold exceeded
+M_HLTH_EOM,At least one health threshold exceeded
+M_WKFC_EOM,At least one workforce threshold exceeded
+M_WKFC_EBS,Both workforce socioeconomic indicators exceeded
+M_EBSI,Is low income and has a low percent of higher ed students?
+UI_EXP,UI_EXP
+THRHLD,THRHLD
+geometry,geometry
