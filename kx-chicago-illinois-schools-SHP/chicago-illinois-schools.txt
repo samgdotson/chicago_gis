@@ -1,0 +1,27 @@
+========================================================================
+ Chicago, Illinois Schools
+------------------------------------------------------------------------
+ https://koordinates.com/layer/96343-chicago-illinois-schools/
+========================================================================
+From: City of Chicago, Illinois
+
+Description:
+  This layer is a component of
+  [operational_carto931](https://gisapps.cityofchicago.org/arcgis/rest/services/ExternalApps/operational/MapServer?f=json).
+
+CRS: NAD83 / Illinois East (ftUS)
+
+------------------------------------------------------------------------
+ Processing steps applied by Koordinates
+------------------------------------------------------------------------
+
+- imported to Koordinates in Esri JSON format on 07 Sep 2018
+- updated with new data on 28 Jun 2019
+- converted by Koordinates to Shapefile on 24 Feb 2022 (reference #2425303)
+
+====================
+No license specified
+====================
+
+No license was specified for this layer. This could mean default rights under copyright law for your legal jurisdiction may apply. Please check with Koordinates if you're unsure of your right to access and use this layer.
+
